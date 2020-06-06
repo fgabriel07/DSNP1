@@ -13,4 +13,7 @@ Formado em Engenharia de Produção, estou buscando o conhecimento em Data Scien
 * [LinkedIn](https://www.linkedin.com/in/ferrarigabriel07)
 * [Medium](https://medium.com/@gabrielferrariveloso)
 
+
+## Projetos:
+* **Analisando os Dados do Airbnb (Londres):** https://bit.ly/2AIZJxt
 ---
