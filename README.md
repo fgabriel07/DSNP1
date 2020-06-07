@@ -15,5 +15,5 @@ Formado em Engenharia de Produção, estou buscando o conhecimento em Data Scien
 
 
 ## Projetos:
-* **Analisando os Dados do Airbnb (Londres):** https://bit.ly/2AIZJxt
+* **Analisando os Dados do Airbnb (Londres):** https://bit.ly/2XEVjAB
 ---
