@@ -1,4 +1,4 @@
-# DSNP1
+# DSNP
 
 <p align="center">
   <img src="bds.png" >
