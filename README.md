@@ -11,7 +11,7 @@ Formado em Engenharia de Produção, estou buscando o conhecimento em Data Scien
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ferrarigabriel07)
-* [Medium](https://medium.com/@gabrielferrariveloso)
+* [Medium](https://medium.com/@gferrari_)
 
 
 ## Projetos:
